@@ -7,13 +7,13 @@ This project focuses on analyzing the Indian EV market to help **AtliQ Motors** 
 
 ## 🚀 Live Dashboard  
 Click the link below to view the live dashboard:  
-[🔗 View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmQxNjdlN2QtMDA4My00NzVlLWFkMDEtYmUxNWUxZjZkZGViIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+[🔗 View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzNlNTZhNDYtMGY5MC00OGZlLWI5NTEtMzllM2ZjZmRhYzE4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 
 ---
 
 ## 📄 View Output Report  
 Click the link below to download or view the output report:  
-[📥 Download Report](https://github.com/sahilparab1408/AtliQ-Motors-EV-Analysis/blob/main/AtliQ_Motors_EV_Insights_Report.pdf)  
+[📥 Download Report](https://github.com/sahilparab1408/AtliQ-Motors-EV-Analysis/blob/main/AltiQ%20Motors%20EV%20Analysis.pdf)  
 
 ---
 
